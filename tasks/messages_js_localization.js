@@ -41,7 +41,6 @@ module.exports = function (grunt) {
         return String.fromCharCode(parseInt(m1, 16));
       });
     }
-    console.log("OPTIONS", options);
     // Iterate over all specified file groups.
     this.files.forEach(function (file) {
       file.src.filter(function (file) {

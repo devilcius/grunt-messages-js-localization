@@ -65,8 +65,12 @@ Regex to match properties files.
 ```js
 grunt.initConfig({
   messages_js_localization: {
-    my_option: {
-      options: {},
+    options: {
+        defaultLanguage: 'en',
+        messagesVariableName: 'messages',
+        messagesFilesRegex: /messages.+properties/        
+    },    
+    your_target: {      
       files: {
         'src/main/resources/public/js': ['src/main/resources/*.properties'],
       }
