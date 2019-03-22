@@ -1,0 +1,1 @@
+const messages = { greeting: 'Bonjour! Bienvenue sur notre site!',  lang:    { change: 'Changez la langue',     eng: 'Anglais',     es: 'Espagnol',     fr: 'Français' } };
