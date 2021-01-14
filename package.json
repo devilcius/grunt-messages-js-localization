@@ -1,7 +1,7 @@
 {
   "name": "grunt-messages-js-localization",
   "description": "Generates js localization files from spring boot messages.properties files",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "homepage": "https://github.com/devilcius/grunt-messages-js-localization",
   "author": {
     "name": "Marcos",
