@@ -102,5 +102,4 @@ Then you could use it in your thymeleaf template:
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-[0.1.0](https://github.com/devilcius/grunt-messages-js-localization/tree/v0.1.0) (2019-03-22):
-- First version
+[See releases](https://github.com/devilcius/grunt-messages-js-localization/releases)
